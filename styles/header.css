@@ -299,7 +299,7 @@ a {
     all: unset;
     display: flex;
     gap: clamp(1rem, 4vw, 3rem);
-    margin-right: 0;
+    margin-right: 1rem;
     flex-wrap: wrap;
   }
 
